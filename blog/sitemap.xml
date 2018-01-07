@@ -4,29 +4,49 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
+<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/</loc>
 <lastmod>2018-01-07T21:37:02-00:00</lastmod>
+=======
+<loc>./</loc>
+<lastmod>2018-01-06T12:08:55-00:00</lastmod>
+>>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/archives.html</loc>
 <lastmod>2018-01-07T21:37:02-00:00</lastmod>
+=======
+<loc>./archives.html</loc>
+<lastmod>2018-01-06T12:08:55-00:00</lastmod>
+>>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/tags.html</loc>
 <lastmod>2018-01-07T21:37:02-00:00</lastmod>
+=======
+<loc>./tags.html</loc>
+<lastmod>2018-01-06T12:08:55-00:00</lastmod>
+>>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
+<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/categories.html</loc>
 <lastmod>2018-01-07T21:37:02-00:00</lastmod>
+=======
+<loc>./categories.html</loc>
+<lastmod>2018-01-06T12:08:55-00:00</lastmod>
+>>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
