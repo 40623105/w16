@@ -59,7 +59,7 @@
 <v t="leo.20171116154610.1" a="E"><vh>關於設計</vh>
 <v t="leo.20171116154610.2"><vh>內容</vh></v>
 </v>
-<v t="leo.20171116030234.4" a="E"><vh>錄製影片</vh>
+<v t="leo.20171116030234.4"><vh>錄製影片</vh>
 <v t="leo.20171116031243.1"><vh>內容</vh></v>
 </v>
 <v t="leo.20171116034716.1"><vh>fossil scm</vh>
@@ -72,7 +72,7 @@
 <v t="leo.20171116160205.2"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20171108192045.1" a="E"><vh>w4-w6</vh>
+<v t="leo.20171108192045.1"><vh>w4-w6</vh>
 <v t="leo.20171109025811.1" a="E"><vh>大綱</vh>
 <v t="leo.20171109025900.1"><vh>內容</vh></v>
 </v>
@@ -108,8 +108,8 @@
 <v t="leo.20170911091508.2"><vh>學習心得</vh></v>
 </v>
 </v>
-<v t="leo.20171114193910.1"><vh>筆記</vh>
-<v t="leo.20171116183212.1"><vh>筆記</vh>
+<v t="leo.20171114193910.1" a="E"><vh>筆記</vh>
+<v t="leo.20171116183212.1" a="E"><vh>筆記</vh>
 <v t="leo.20171116183212.2"><vh>內容</vh></v>
 </v>
 </v>
@@ -118,7 +118,7 @@
 <v t="leo.20171116203347.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180103232222.1" a="E"><vh>W10-W12</vh>
+<v t="leo.20180103232222.1"><vh>W10-W12</vh>
 <v t="leo.20180103232222.2" a="E"><vh>創建github帳號</vh>
 <v t="leo.20180103232222.3"><vh>內容</vh></v>
 </v>
@@ -147,6 +147,16 @@
 </v>
 <v t="leo.20180103232516.6" a="E"><vh>組員協同製作計算機基本功能</vh>
 <v t="leo.20180103232516.7"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180107205805.1" a="E"><vh>課堂筆記</vh>
+<v t="leo.20180107205805.2" a="E"><vh>筆記</vh>
+<v t="leo.20180107205805.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20180107205807.1" a="E"><vh>期末自評分數</vh>
+<v t="leo.20180107205807.2" a="E"><vh>自評分數</vh>
+<v t="leo.20180107205807.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -1060,6 +1070,48 @@ print(len(['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class'
 排除衝突
 
 了解程式碼，如何使按鈕有功能</t>
+<t tx="leo.20180107205805.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180107205805.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180107205805.3">筆記內容
+
+&lt;img src="https://raw.githubusercontent.com/40623105/w16/gh-pages/data/image/26692296_1928831650767294_746371078_o.jpg"width="200" height="200"&gt;&lt;/a&gt;
+
+&lt;img src="https://raw.githubusercontent.com/40623105/w16/gh-pages/data/image/26692296_1928831650767294_746371078_o.jpg"width="200" height="200"&gt;&lt;/a&gt;</t>
+<t tx="leo.20180107205807.1">&lt;section&gt;
+    @others
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180107205807.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20180107205807.3"># 期末簡報
+
+##自評成績
+
+####總分   :  73 分</t>
 <t tx="yen.20170108171605.1"></t>
 <t tx="yen.20170108171605.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
