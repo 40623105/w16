@@ -4,49 +4,29 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/</loc>
-<lastmod>2018-01-07T21:37:02-00:00</lastmod>
-=======
-<loc>./</loc>
-<lastmod>2018-01-06T12:08:55-00:00</lastmod>
->>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
+<lastmod>2018-01-10T02:08:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/archives.html</loc>
-<lastmod>2018-01-07T21:37:02-00:00</lastmod>
-=======
-<loc>./archives.html</loc>
-<lastmod>2018-01-06T12:08:55-00:00</lastmod>
->>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
+<lastmod>2018-01-10T02:08:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/tags.html</loc>
-<lastmod>2018-01-07T21:37:02-00:00</lastmod>
-=======
-<loc>./tags.html</loc>
-<lastmod>2018-01-06T12:08:55-00:00</lastmod>
->>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
+<lastmod>2018-01-10T02:08:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<<<<<<< HEAD
 <loc>https://40623105.github.io/40623105/w16/blog/categories.html</loc>
-<lastmod>2018-01-07T21:37:02-00:00</lastmod>
-=======
-<loc>./categories.html</loc>
-<lastmod>2018-01-06T12:08:55-00:00</lastmod>
->>>>>>> 99a9ad17750b0cc60bf8d0a6bdad9fda12b8ed9a
+<lastmod>2018-01-10T02:08:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -54,6 +34,55 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://40623105.github.io/40623105/w16/blog/pages/about/</loc>
 <lastmod>2018-01-07T20:56:48+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w16-view.html</loc>
+<lastmod>2017-12-28T16:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w15-view.html</loc>
+<lastmod>2017-12-21T16:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w14-view.html</loc>
+<lastmod>2017-12-14T16:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w13-view.html</loc>
+<lastmod>2017-12-08T16:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w12-view.html</loc>
+<lastmod>2017-11-30T16:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w11-view.html</loc>
+<lastmod>2017-11-23T16:00:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/40623105-w10-view.html</loc>
+<lastmod>2017-11-19T16:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -109,21 +138,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40623105.github.io/40623105/w16/blog/category/course.html</loc>
-<lastmod>2017-11-09T08:10:00+08:06</lastmod>
+<lastmod>2017-12-28T16:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40623105.github.io/40623105/w16/blog/tag/2017fall.html</loc>
-<lastmod>2017-11-09T08:10:00+08:06</lastmod>
+<lastmod>2017-12-28T16:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://40623105.github.io/40623105/w16/blog/tag/cp.html</loc>
-<lastmod>2017-11-09T08:10:00+08:06</lastmod>
+<lastmod>2017-12-28T16:00:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://40623105.github.io/40623105/w16/blog/tag/pyqt5.html</loc>
+<lastmod>2017-12-28T16:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -151,7 +187,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://40623105.github.io/40623105/w16/blog/author/40623105.html</loc>
-<lastmod>2017-11-09T08:10:00+08:06</lastmod>
+<lastmod>2017-12-28T16:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

@@ -118,7 +118,7 @@
 <v t="leo.20171116203347.3"><vh>內容</vh></v>
 </v>
 </v>
-<v t="leo.20180103232222.1"><vh>W10-W12</vh>
+<v t="leo.20180103232222.1" a="E"><vh>W10-W12</vh>
 <v t="leo.20180103232222.2" a="E"><vh>創建github帳號</vh>
 <v t="leo.20180103232222.3"><vh>內容</vh></v>
 </v>
@@ -171,6 +171,13 @@
 <v t="leo.20171031161243.1"><vh>@edit 20171031.md</vh></v>
 <v t="leo.20171116171550.1"><vh>@edit 20171102.md</vh></v>
 <v t="leo.20171116202951.1"><vh>@edit 20171109.md</vh></v>
+<v t="leo.20180110014622.1"><vh>@edit 20171119.md</vh></v>
+<v t="leo.20180110014733.1"><vh>@edit 20171123.md</vh></v>
+<v t="leo.20180110014856.1"><vh>@edit 20171130.md</vh></v>
+<v t="leo.20180110014944.1"><vh>@edit 20171207.md</vh></v>
+<v t="leo.20180110015740.1"><vh>@edit 20171214.md</vh></v>
+<v t="leo.20180110020126.1"><vh>@edit 20171221.md</vh></v>
+<v t="leo.20180110020341.1"><vh>@edit 20171228.md</vh></v>
 <v t="leo.20171003222155.1"><vh>@clean 20171003.md</vh>
 <v t="leo.20171003222155.2"><vh>ex1 - for 迴圈</vh></v>
 <v t="leo.20171003222155.3"><vh>ex2 - input 與單位換算</vh></v>
@@ -1017,7 +1024,7 @@ print(len(['False', 'None', 'True', 'and', 'as', 'assert', 'break', 'class'
 </t>
 <t tx="leo.20180103232222.7">### 訂義啟動與關閉
 
-改寫star.bat和stop.bat成自訂義形式</t>
+改寫start.bat和stop.bat成自訂義形式</t>
 <t tx="leo.20180103232222.8">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
